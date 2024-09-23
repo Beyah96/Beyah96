@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Junior Data Consultant
 
-![Views](https://hits.dwyl.com/beyah96/Beyah96.svg?style=flat-square)-blue)
+  [![Views](https://hits.dwyl.com/beyah96/Beyah96.svg?style=flat-square)](http://hits.dwyl.com/beyah96/Beyah96)
 
 
 **Contact:**  
