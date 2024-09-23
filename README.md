@@ -2,7 +2,8 @@
 
 ## 🧑‍💻 Junior Data Consultant
 
-![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=mohamed-said-beyah)  
+![Views](https://img.shields.io/badge/Views-![HitCount](https://hits.dwyl.com/beyah96/Beyah96.svg?style=flat-square)-blue)
+
 
 **Contact:**  
 📍 Massy, France  
