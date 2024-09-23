@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Junior Data Consultant
 
-![Views](https://img.shields.io/badge/Views-![HitCount](https://hits.dwyl.com/beyah96/Beyah96.svg?style=flat-square)-blue)
+![Views](https://hits.dwyl.com/beyah96/Beyah96.svg?style=flat-square)-blue)
 
 
 **Contact:**  
