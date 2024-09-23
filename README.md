@@ -4,10 +4,9 @@
 # Hi👋 My name is  Mohamed Said BEYAH
 
 ## 🧑‍💻 Junior Developer & AI Engineer
----
 
 ### 📝 About Me
-
+---
 Welcome to my GitHub profile! With a strong foundation in software development, artificial intelligence, and electronics, I am passionate about leveraging technology to create innovative solutions.
 ---
 
