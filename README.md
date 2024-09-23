@@ -2,14 +2,12 @@
 
 ## 🧑‍💻 Junior Data Consultant
 
-Profile views : [![HitCount](https://hits.dwyl.com/Beyah96/Beyah96.svg?style=flat-square)](http://hits.dwyl.com/Beyah96/Beyah96)
+![Profile views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBeyah96%2FBeyah96)
 
+## Contact
 
-**Contact:**  
-📍 Massy, France  
-📞 +33 6 46 95 93 40  
-✉️ [bahsaid96@gmail.com](mailto:bahsaid96@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-said-beyah)
+[![Location](https://img.shields.io/badge/📍-Massy%2C%20France-blue)](https://www.google.com/maps/place/Massy,+France) [![Phone](https://img.shields.io/badge/📞+33%206%2046%2095%2093%2040-brightgreen)](tel:+33646959340) [![Email](https://img.shields.io/badge/✉️-bahsaid96@gmail.com-red)](mailto:bahsaid96@gmail.com) [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-said-beyah)
+
 
 ---
 
