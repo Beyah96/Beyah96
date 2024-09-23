@@ -1,5 +1,8 @@
 # Mohamed Said BEYAH
+
 ## 🧑‍💻 Junior Data Consultant
+
+![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=mohamed-said-beyah)  
 
 **Contact:**  
 📍 Massy, France  
@@ -17,14 +20,17 @@ I am a passionate AI engineer currently seeking R&D opportunities across France.
 
 ### 🛠️ Skills
 
-- **Cloud:** ☁️ AWS
-- **Big Data:** 📊 Hadoop, Apache Spark
-- **Data Integration:** 🔗 Talend
-- **Reporting:** 📈 Power BI, Tableau
-- **Languages:** 🖥️ Python, R, Java, SQL, PL/SQL, PowerShell, Bash
-- **Databases:** 🗄️ Snowflake, Big Query, MySQL, MongoDB, Cassandra
-- **Modeling:** 📐 UML, iStar
-- **Methods:** 🏗️ Agile (SCRUM)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)  
+![SQL Badge](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)  
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-E94E1B?style=flat&logo=tensorflow&logoColor=white)  
+![Hadoop Badge](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)  
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F25028?style=flat&logo=powerbi&logoColor=white)  
+![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+
+---
 
 ### 🌍 Languages
 
@@ -34,6 +40,10 @@ I am a passionate AI engineer currently seeking R&D opportunities across France.
 ---
 
 ### 🎓 Certifications
+
+![AI Certification Badge](https://img.shields.io/badge/AI-Certified-green?style=flat)  
+![Git Badge](https://img.shields.io/badge/Git-FF7F7F?style=flat&logo=git&logoColor=white)  
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
 - 2023: Modern Computer Vision™ (PyTorch, TensorFlow, Keras, OpenCV)
 - 2023: AI from A to Z
@@ -91,7 +101,6 @@ University of Côte d'Azur | September 2019 - September 2021
 ### 📬 Get in Touch
 
 Feel free to reach out for collaboration opportunities or to discuss interesting projects!
-
 
 # My Stats:
 [![](https://raw.githubusercontent.com/Beyah96/Beyah96/master/profile-summary-card-output/merko/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
