@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Junior Data Consultant
 
-![Profile views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20views&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBeyah96%2FBeyah96)
+![Profile Views](https://komarev.com/ghpvc/?username=Beyah96&color=blue)
 
 ## Contact
 
