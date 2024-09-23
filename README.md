@@ -33,9 +33,7 @@ I am a passionate AI engineer currently seeking R&D opportunities across France.
 
 ### 🎓 Certifications
 
-![AI Certification Badge](https://img.shields.io/badge/AI-Certified-green?style=flat)  
-![Git Badge](https://img.shields.io/badge/Git-FF7F7F?style=flat&logo=git&logoColor=white)  
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![AI Certification Badge](https://img.shields.io/badge/AI-Certified-green?style=flat)  ![Git Badge](https://img.shields.io/badge/Git-FF7F7F?style=flat&logo=git&logoColor=white)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
 - 2023: Modern Computer Vision™ (PyTorch, TensorFlow, Keras, OpenCV)
 - 2023: AI from A to Z
