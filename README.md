@@ -1,14 +1,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Beyah96&color=blue) [![Location](https://img.shields.io/badge/📍-Massy%2C%20France-blue)](https://www.google.com/maps/place/Massy,+France) [![Phone](https://img.shields.io/badge/📞+33%206%2046%2095%2093%2040-brightgreen)](tel:+33646959340) [![Email](https://img.shields.io/badge/✉️-bahsaid96@gmail.com-red)](mailto:bahsaid96@gmail.com) [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-said-beyah)
 
-# Hi👋 My name is  Mohamed Said BEYAH
+# Hi 👋 I'm Mohamed Said BEYAH
 
 ## 🧑‍💻 Junior Developer & AI Engineer
 
-### 📝 About Me
----
-Welcome to my GitHub profile! With a strong foundation in software development, artificial intelligence, and electronics, I am passionate about leveraging technology to create innovative solutions.
----
+Welcome to my GitHub profile! I’m passionate about leveraging technology to create innovative solutions, with a strong foundation in software development, artificial intelligence, and electronics.
+
 
 ### 🛠️ Skills
 
