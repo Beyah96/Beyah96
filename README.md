@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I’m passionate about leveraging technology to cr
 ![AI Certification Badge](https://img.shields.io/badge/AI-Certified-green?style=flat)  ![Git Badge](https://img.shields.io/badge/Git-FF7F7F?style=flat&logo=git&logoColor=white)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
 - 2023: Modern Computer Vision™ (PyTorch, TensorFlow, Keras, OpenCV)
-- 2023: AI from A to Z
+- 2023: AI from A to Z.
 - 2022: Git and GitHub (Beginner to Advanced)
 - 2022: Machine Learning with Python
 - 2021: JS.0X: Introduction to JavaScript
